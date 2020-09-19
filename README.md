@@ -25,7 +25,7 @@
 ![](https://i.ibb.co/x3RG48N/2020-09-19-143939.png)
 ### 10. 訓練模型
 ![](https://i.ibb.co/xYjnwzY/2020-09-19-144330.png)
-### 11. 繪圖
+### 11. 繪圖，我們總共輸出的預測資料為13筆，在此用Temperature表示。
 ![](https://i.ibb.co/86vLWtF/image.png)
 ### 12. 修正與改善 <br>
 我所做的嘗試 :<br>
