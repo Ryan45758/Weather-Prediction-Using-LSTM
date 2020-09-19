@@ -1,7 +1,8 @@
 # Weather-Prediction
 ## 目的:分析台中市龍井區近8年來天氣資料，來預測龍井區未來天氣
-## 分析:![](https://1.bp.blogspot.com/-6hyAXQfTrXY/WNn2G3CUtbI/AAAAAAAADHA/EaaANM6G1fg460fQccTNmwa8gp9k_IS7wCLcB/s1600/fig04_2c_LSTM.png)利用LSTM輸入該13筆特徵，輸出13筆預測。
-### 步驟:<br>
+## 模型:![](https://1.bp.blogspot.com/-6hyAXQfTrXY/WNn2G3CUtbI/AAAAAAAADHA/EaaANM6G1fg460fQccTNmwa8gp9k_IS7wCLcB/s1600/fig04_2c_LSTM.png)利用LSTM輸入該13筆特徵，輸出13筆預測。
+## 分析:為何要用LSTM? LSTM顧名思義:Long short-term memory，中文翻譯為長短期記憶，該模型具有時序性，藉由學習後者修正前者。
+### 步驟:<br>，
 手動蒐集CSV檔 → 匯入資料 → 合併資料 → 資料前處理 <br>
 → 匯出資料 → 切分資料 → 載入模型 → 訓練模型 <br>
 → 保存模型 → 觀看準確度 → 畫圖 → 修正與改善。<br>
